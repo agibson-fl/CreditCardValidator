@@ -2,7 +2,11 @@ A quick and dirty solution to https://www.hackerrank.com/challenges/validating-c
 
 
 To exercise via unit tests:
+```
 python CreditCardValidatorTests.py
+```
 
 To exercise via commandline reading from stdin: 
+```
 python StdInTestRunner.py
+```
